@@ -1,0 +1,28 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+//using OnValueChanged = UnityEngine.OnValueChangedAttribute;
+//using MoreMountains.Tools;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : MonoBehaviour
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+#ROOTNAMESPACEEND#
